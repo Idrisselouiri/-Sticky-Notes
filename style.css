@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Nunito+Sans:wght@200&family=Open+Sans:wght@300;400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Architects Daughter';
+}
+.main{
+    width: 95%;
+    margin: auto;
+}
+.container3{
+    position: absolute;
+    top: 26%;
+    left: 40%;
+}
+textarea{
+    box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, .75);
+    outline: none;
+    border: none;
+    width: 275px;
+    height: 275px;
+    padding: 40px 25px 25px 25px;
+}
+i{
+    color: gray;
+}
+#chek-circle{
+    position: absolute;
+    right: 17%;
+    top: 4%;
+}
+#close-circle{
+    position: absolute;
+    right: 5%;
+    top:4%;
+}
